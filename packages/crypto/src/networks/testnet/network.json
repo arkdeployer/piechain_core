@@ -1,18 +1,18 @@
 {
-    "name": "testnet",
-    "messagePrefix": "TEST message:\n",
-    "bip32": {
-        "public": 70617039,
-        "private": 70615956
-    },
-    "pubKeyHash": 23,
-    "nethash": "d9acd04bde4234a81addb8482333b4ac906bed7be5a9970ce8ada428bd083192",
-    "wif": 186,
-    "slip44": 1,
-    "aip20": 0,
-    "client": {
-        "token": "TARK",
-        "symbol": "TѦ",
-        "explorer": "http://texplorer.ark.io"
-    }
+  "name": "testnet",
+  "messagePrefix": "pi message:\n",
+  "bip32": {
+    "public": 70617039,
+    "private": 70615956
+  },
+  "pubKeyHash": 127,
+  "nethash": "d2b070607869b717715f03944bc3de9a3c70f476b68c6e72b5224fc6ffe6f2e9",
+  "wif": 212,
+  "slip44": 1,
+  "aip20": 0,
+  "client": {
+    "token": "pi",
+    "symbol": "p",
+    "explorer": "http://0.0.0.0:4200"
+  }
 }
